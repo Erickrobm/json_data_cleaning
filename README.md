@@ -8,4 +8,4 @@ This repository contains a Jupyter Notebook with a script for cleaning and conve
     pandas==1.4.2
 ```
 
-* Toronto Notices JSON file [**Datos CDMX**](https://secure.toronto.ca/nm/notices.json)
+* Toronto Notices: [**JSON file**](https://secure.toronto.ca/nm/notices.json)
